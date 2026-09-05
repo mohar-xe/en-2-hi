@@ -1,0 +1,6 @@
+bert-score
+pandas
+transformers
+torch
+llama-cpp-python
+huggingface-hub
